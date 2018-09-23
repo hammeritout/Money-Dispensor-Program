@@ -1,0 +1,9 @@
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\bin\Debug\DenominationProject.exe.config
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\bin\Debug\DenominationProject.exe
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\bin\Debug\DenominationProject.pdb
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\obj\Debug\DenominationProject.csprojResolveAssemblyReference.cache
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\obj\Debug\DenominationProject.FrmDenomination.resources
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\obj\Debug\DenominationProject.Properties.Resources.resources
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\obj\Debug\DenominationProject.csproj.GenerateResource.Cache
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\obj\Debug\DenominationProject.exe
+C:\Users\sharyl\Documents\Visual Studio 2015\Projects\DenominationProject\DenominationProject\obj\Debug\DenominationProject.pdb
